@@ -2,7 +2,9 @@
 
 
 
-
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+<p>
+	
 
 
 
@@ -17,6 +19,15 @@ Soy estudiante de desarrollo de software y estoy en 4to semestre. Me apasiona la
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=duarte144&theme=algolia" alt="duarte144"  /></p>
+
+
+
+<p>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duarte144&show_icons=true&theme=duarte144" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=duarte144&theme=duarte144&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
 
 
 
@@ -58,6 +69,7 @@ Soy estudiante de desarrollo de software y estoy en 4to semestre. Me apasiona la
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
 
 
 </span>
